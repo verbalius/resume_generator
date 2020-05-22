@@ -1,6 +1,6 @@
-# Nice resume template
+# Easy minimal CV template
 
-This is my personal template for resume (CV) generation. It generates a resume with size of A4 page with 10mm margins around using "Linux Libertine font".
+This is very simple minimalistic template for resume (CV) generation. It generates a resume with size of A4 page with 10mm margins around using "Linux Libertine font".
 
 ## How to use:
 
